@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Converter</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="favicon.png">
+</head>
+
+<body>
+    <div class="container">
+        <button id="translateButton" class="translate-btn">BG</button>
+        <h1 id="appTitle">Text Converter</h1>
+        <textarea id="inputText" placeholder="Paste text here..."></textarea>
+        <select id="conversionType">
+            <optgroup label="Phonetic">
+                <option value="bgp-to-eng">BG (Phonetic Traditional) to ENG</option>
+                <option value="eng-to-bgp">ENG to BG (Phonetic Traditional)</option>
+            </optgroup>
+            <optgroup label="Typewriter">
+                <option value="bgt-to-eng">BG (Typewriter) to ENG</option>
+                <option value="eng-to-bgt">ENG to BG (Typewriter)</option>
+            </optgroup>
+        </select>
+        <button id="convertButton">Convert</button>
+        <textarea id="outputText" placeholder="Converted text will appear here..." readonly></textarea>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
