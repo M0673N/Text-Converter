@@ -110,7 +110,7 @@ function translateAppToBulgarian() {
     document.getElementById('inputText').placeholder = 'Поставете текста тук...';
     document.getElementById('outputText').placeholder = 'Конвертираният текст ще се появи тук...';
     document.getElementById('convertButton').innerText = 'Конвертиране';
-    document.getElementById('translateButton').innerText = 'ENG';
+    document.getElementById('translateButton').innerText = 'EN';
 }
 
 function translateAppToEnglish() {
