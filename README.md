@@ -5,7 +5,7 @@
 Have you ever found yourself typing a text only to look at your screen and realize that it’s completely garbled?
 Instead of starting all over again, you can use the **Text Converter** app to quickly fix your text!
 
-![Screenshot](https://github.com/user-attachments/assets/8da9993f-e62b-40d4-9a4a-4b11275f250c)
+![Screenshot 2](https://github.com/user-attachments/assets/2747fe91-906a-437e-9759-f487db03dfdc)
 
 ## Features
 
