@@ -29,6 +29,8 @@ const engToBgPhoneticMap = {
     "[": "ш", "{": "Ш",
     "]": "щ", "}": "Щ",
     "`": "ч", "~": "Ч",
+    "#": "№", "^": "€",
+    "&": "§"
 };
 
 const engToBgTypewriterMap = {
