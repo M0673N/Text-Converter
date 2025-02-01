@@ -34,4 +34,6 @@ xdg-open index.html
 
 ## Acknowledgments
 
-This app was developed at a client's request, showcasing my commitment to providing practical solutions for everyday problems.
+The idea was stolen from [MSStoyanova](https://github.com/MSStoyanova)
+
+We are commited to providing practical solutions for everyday problems.
