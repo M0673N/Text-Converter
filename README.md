@@ -5,6 +5,8 @@
 Have you ever found yourself typing a text only to look at your screen and realize that it’s completely garbled?
 Instead of starting all over again, you can use the **Text Converter** app to quickly fix your text!
 
+![Screenshot](https://github.com/user-attachments/assets/8da9993f-e62b-40d4-9a4a-4b11275f250c)
+
 ## Features
 
 - **Easy Text Conversion**: Simply copy and paste your garbled text into the app, and convert it back to readable format.
