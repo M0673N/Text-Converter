@@ -66,6 +66,10 @@ const engToBgTypewriterMap = {
     "[": "ц", "{": "Ц",
     "]": ";", "}": "§",
     "\\": "(", "|": ")",
+    "‘": "ч", "„": "Ч",
+    "$": "“", "@": "?",
+    "&": ":", ")": "№",
+    "=": "."
 };
 
 const bgToEngPhoneticMap = Object.fromEntries(
